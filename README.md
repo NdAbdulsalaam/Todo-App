@@ -1,2 +1,2 @@
 # Todo-App
-view here: 
+![Todo-App Image](./public/todo-screenshot.jpg)
